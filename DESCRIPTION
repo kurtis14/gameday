@@ -13,5 +13,6 @@ Depends:
 License: CCO
 LazyData: true
 Suggests:
-    knitr
+    knitr,
+    testthat
 VignetteBuilder: knitr
